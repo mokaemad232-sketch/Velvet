@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://velvet-kappa.vercel.app/sitemap.xml
